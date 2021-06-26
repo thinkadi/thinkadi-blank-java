@@ -1,0 +1,1 @@
+# thinkadi-blank-java
